@@ -1,5 +1,7 @@
 # Grace: Local Holographic AI Companion
 
+![Grace User Interface](UI.png)
+
 Grace is a desktop AI companion that runs primarily on your local machine. She listens to spoken conversation, replies with a natural voice, displays a cyan-blue holographic female face, expresses conversational emotions, and remembers useful information across sessions. In addition, Grace features optional vision capabilities to analyze webcam frames, understand screenshots, and read authorized project files to provide contextual assistance.
 
 ## ✨ Features
@@ -13,6 +15,14 @@ Grace is a desktop AI companion that runs primarily on your local machine. She l
   * **Screen Understanding:** Capture and analyze user-triggered screenshots for help with UI, error messages, or charts.
   * **Work Context:** Read and analyze authorized local project files and source code for accurate debugging and assistance.
 * **Privacy-First:** Processes data locally. Explicit, separate permissions for microphone, camera, and screen capture. Memory is fully controllable by the user.
+
+## 🎨 User Interface & Design
+
+Grace's interface is designed to be a calm, minimalistic digital presence rather than a cluttered dashboard.
+* **Face First:** The central cyan holographic face, made of glowing particles and wireframes, occupies most of the visual attention.
+* **Minimal Controls:** The UI includes only essential elements: a small brand label, a compact icon rail for navigation (Home, Chat, Files, Settings), and a responsive voice interaction bar at the bottom.
+* **Quiet Technology:** Employs a near-black background with cyan accents for active states, avoiding excessive HUD panels or fake telemetry.
+* **Responsive State:** The voice bar and avatar fluidly communicate whether Grace is idle, listening, transcribing, thinking, or speaking. Secondary panels (like Settings or File context) slide in without cluttering the main avatar stage.
 
 ## 🛠️ Technology Stack
 
